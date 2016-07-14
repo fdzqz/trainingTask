@@ -30,7 +30,7 @@
 
 ## 任务
 - 前端任务
- - 任务1：[静态页面](https://github.com/fdzqz/trainingTask/blob/master/fe_task/task_01.md)
+ - 任务1：[静态页面](https://github.com/fdzqz/trainingTask/blob/master/fe_task/task_01.md)（已布置，前后端相同）
  - 任务2：兼容性页面
  - 任务3：使用原生JavaScript写组件
     - 组件1：表单验证
