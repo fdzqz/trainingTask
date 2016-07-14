@@ -30,7 +30,7 @@
 
 ## 任务
 - 前端任务
- - 任务1：[静态页面](https://github.com/fdzqz/trainingTask/blob/master/fe_task/task_01.md)（已布置，前后端相同）
+ - 任务1：[静态页面](https://github.com/fdzqz/trainingTask/blob/master/fe_task/task_01.md)**（已布置，前后端相同）**
  - 任务2：兼容性页面
  - 任务3：使用原生JavaScript写组件
     - 组件1：表单验证
@@ -48,16 +48,16 @@
 ## 培训
 - 前端培训
  - 培训1：工具使用
-   - 代码托管：Github
-   - 切图工具：Photoshop CC
-   - 编辑工具：Sublime Text3
-   - 调试工具：谷歌开发者工具
+     - 代码托管：Github
+     - 切图工具：Photoshop CC
+     - 编辑工具：Sublime Text3
+     - 调试工具：谷歌开发者工具
  - 培训2：静态网页的基本编写要素
-   - 语义化html
-   - css选择器 
-   - css盒模型
-   - css布局方式
-   - html&css代码规范
+     - 语义化html
+     - css选择器 
+     - css盒模型
+     - css布局方式
+     - html&css代码规范
  - 培训3：兼容性问题讲解
  - 培训4：如何编写JavaScript组件以及组件库的建立以及使用
  - 培训5：jQuery的使用情况以及相关类库的对比分析
