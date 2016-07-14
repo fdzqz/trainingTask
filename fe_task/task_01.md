@@ -12,6 +12,7 @@
         - [HTML代码规范](https://github.com/ecomfe/spec/blob/master/html-style-guide.md)
         - [CSS代码规范](https://github.com/ecomfe/spec/blob/master/css-style-guide.md)
     - 切图工具：使用ps来切图，学会获取psd文件页面中的文字大小、颜色，图片大小等信息。
+- 作业提交：统一提交到邮箱945661494@qq.com
 - 参考资料：
     - **入门书籍**：《HTML5与CSS3基础教程（第8版）》（[网盘地址](http://pan.baidu.com/s/1dFwkYIl)，密码：p1ts）
     - 入门视频：[慕课网HTML+CSS基础课程](http://www.imooc.com/learn/9)
