@@ -19,8 +19,9 @@
 ## Git教程
 - 资料
  - [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137628548491051ccfaef0ccb470894c858999603fedf000)
-
-### 入门操作
+ - 书籍
+   - Github入门与实践
+   - Git权威指南 
 - 准备
  - 注册Github账号：打开Github官网自行注册。
  - 安装Git：打开Git官网安装相应操作系统版本的Git。
@@ -67,7 +68,7 @@ git config --global user.email "邮箱"
 
 ## Google Developer Tools（谷歌调试工具）
 - 资料
- - [Chrome开发者工具不完全指南](https://www.zhihu.com/question/34682699/answer/81858413):这个教程写的很详细了，大家做前两个任务的时候可以先看第一篇（讲element功能），后面完成第三次任务（js组件）的时候可以看下第二篇（讲sources和console功能）来调试js代码，Google Dev Tools其它功能可以到时候需要或者做项目的时候再去看。
+ - [Chrome开发者工具不完全指南](https://www.zhihu.com/question/34682699/answer/81858413)：这个教程写的很详细了，大家做前两个任务的时候可以先看第一篇（讲element功能），后面完成第三次任务（js组件）的时候可以看下第二篇（讲sources和console功能）来调试js代码，Google Dev Tools其它功能可以到时候需要或者做项目的时候再去看。
 
 ## Sublim Text
 - 资料
