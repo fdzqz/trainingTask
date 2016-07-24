@@ -20,8 +20,8 @@
 - 资料
  - [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00137628548491051ccfaef0ccb470894c858999603fedf000)
  - 书籍
-   - Github入门与实践
-   - Git权威指南 
+    - Github入门与实践
+    - Git权威指南 
 - 准备
  - 注册Github账号：打开Github官网自行注册。
  - 安装Git：打开Git官网安装相应操作系统版本的Git。
