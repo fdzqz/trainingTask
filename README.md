@@ -49,20 +49,21 @@
 
 ## 培训
 - 前端培训
- - 培训1：工具使用
+ - 培训1：[工具使用](https://github.com/fdzqz/trainingTask/blob/master/fe_training/resou01.md)**(7.20，资料已给)**
      - 代码托管：Github
      - 切图工具：Photoshop CC
      - 编辑工具：Sublime Text3
      - 调试工具：谷歌开发者工具
- - 培训2：静态网页的基本编写要素
+ - 培训2：静态网页的基本编写要素**(8.1）**
      - 第一次任务讲解
-     - HTML标签语义化
+     - 语义化标签
+     - 常见HTML模块
      - css选择器 
      - css盒模型
      - css布局要素及常见布局问题
-     - html&css代码规范
      - html&css常见兼容性问题
- - 培训3：兼容性问题讲解
+     - 推荐书单
+ - 培训3：JavaScript基础语法
  - 培训4：如何编写JavaScript组件以及组件库的建立以及使用
  - 培训5：jQuery的使用情况以及相关类库的对比分析
  - 培训6：如何使用前端模板，数据交互以及安装和使用Node

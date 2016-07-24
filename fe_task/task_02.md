@@ -13,3 +13,4 @@
         - [CSS代码规范](https://github.com/ecomfe/spec/blob/master/css-style-guide.md)
     - 切图工具：使用ps来切图，学会获取psd文件页面中的文字大小、颜色，图片大小等信息。
 - 作业提交：统一提交到邮箱945661494@qq.com（交的时候附上姓名）
+- 资料：google是最好的资料！！
