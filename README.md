@@ -33,9 +33,9 @@
  - 任务1：[静态页面](https://github.com/fdzqz/trainingTask/blob/master/fe_task/task_01.md)**（已布置，前后端相同，后台后面会另外布置）**
  - 任务2：[兼容性页面](https://github.com/fdzqz/trainingTask/blob/master/fe_task/task_02.md)**(已布置)**
  - 任务3：使用原生JavaScript写组件
-    - 组件1：表单验证
-    - 组件2：Tab选项卡
-    - 组件3：图片轮播
+    - 组件1：[表单验证](https://github.com/fdzqz/trainingTask/blob/master/fe_task/task_03.md)**(已布置)**
+    - 组件2：[图片轮播](https://github.com/fdzqz/trainingTask/blob/master/fe_task/task_03.md)**(已布置)**
+    - 组件3：Tab选项卡
     - 组件4：弹出框
     - 组件5：分页效果
  - 任务4：使用jQuery重构组件

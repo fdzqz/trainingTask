@@ -6,11 +6,12 @@
 - 基本要求：
     - 独立完成布置的静态页面（只要求HTML和CSS效果）。
     - 要求能兼容IE8及以上版本，Google，Firefox。
-- 提升要求（不强制，按自身实际自行决定）：
-    - 代码托管：使用github托管代码和展示效果
-    - 代码规范：使用html&css代码规范
+    - 代码中含有必要的注释。
+    - 请注意代码风格的整齐、优雅。
         - [HTML代码规范](https://github.com/ecomfe/spec/blob/master/html-style-guide.md)
         - [CSS代码规范](https://github.com/ecomfe/spec/blob/master/css-style-guide.md)
+- 提升要求（不强制，按自身实际自行决定）：
+    - 代码托管：使用github托管代码和展示效果
     - 切图工具：使用ps来切图，学会获取psd文件页面中的文字大小、颜色，图片大小等信息。
 - 作业提交：统一提交到邮箱945661494@qq.com（交的时候附上姓名）
 - 资料：google是最好的资料！！
