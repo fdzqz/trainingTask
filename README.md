@@ -45,7 +45,7 @@
     - jQuery Ajax交互
 - 后台任务
  - 任务一：前后端任务相同**（已布置）**
- - 任务二：
+ - 任务二：[后台第二次任务](https://github.com/fdzqz/trainingTask/blob/master/rd_task/task_02.md)**(已布置)**
 
 ## 培训
 - 前端培训
