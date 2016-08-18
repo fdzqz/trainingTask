@@ -49,7 +49,78 @@
     - 组件化：考虑组件的可重用性问题，如：图片的张数可根据需求动态添加。
     - 代码规范：[JavaScript代码规范](https://github.com/ecomfe/spec/blob/master/javascript-style-guide.md)
 
-- 作业提交：统一提交到邮箱945661494@qq.com
+- 作业提交：分配导师后提交到相应导师处（分配导师前统一提交到邮箱945661494@qq.com）
+- 参考资料：
+    - 入门书籍
+      - 《JavaScript DOM编程艺术》
+      - 《JavaScript高级程序设计（第三版）》
+
+    - 入门视频：[慕课网JavaScript入门课程](http://www.imooc.com/view/36)
+    - 参考文档：[MDN JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+
+
+## 任务3_3：Tab选项卡
+
+- 完成时间：**一周（2016.09.12-2016.09.18）**
+- 任务内容
+ - 实现Tab选项卡效果（内容切换），模仿[优设网首页](http://www.uisdc.com/)右侧选项卡效果。
+ - 样例图片：![](img/task_3_3.png)
+- 基本要求：
+    - 功能1：选项选中加亮。
+    - 功能2：使用滑入事件，滑入后切换待相应选项的内容。
+    - 兼容性：考虑原生JavaScript的兼容性问题。
+    - 组件化：考虑组件的可重用性问题，如：选项的个数可根据需求动态添加。
+    - 代码规范：[JavaScript代码规范](https://github.com/ecomfe/spec/blob/master/javascript-style-guide.md)
+
+- 作业提交：分配导师后提交到相应导师处（分配导师前统一提交到邮箱945661494@qq.com）
+- 参考资料：
+    - 入门书籍
+      - 《JavaScript DOM编程艺术》
+      - 《JavaScript高级程序设计（第三版）》
+
+    - 入门视频：[慕课网JavaScript入门课程](http://www.imooc.com/view/36)
+    - 参考文档：[MDN JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+
+## 任务3_4：原生JavaScript轮播组件
+
+- 完成时间：**一周（2016.09.19-2016.09.25）**
+- 任务内容
+ - 实现登陆框弹出效果，模仿[百度首页登陆弹出框](http://www.uisdc.com/)右侧选项卡效果。
+ - 样例图片：![](img/task_3_4.png)
+- 基本要求：
+    - 功能1：点击登陆按钮后出现登陆弹出框和遮罩层。
+    - 功能2：点击遮罩层或者X按钮，遮罩层和弹出框消失。
+    - 功能3：如有余力，可实现拖拽效果。
+- 提升要求（不强制，按自身实际自行决定）：
+    - 兼容性：考虑原生JavaScript的兼容性问题。
+    - 组件化：考虑组件的可重用性问题。
+    - 代码规范：[JavaScript代码规范](https://github.com/ecomfe/spec/blob/master/javascript-style-guide.md)
+
+- 作业提交：分配导师后提交到相应导师处（分配导师前统一提交到邮箱945661494@qq.com）
+- 参考资料：
+    - 入门书籍
+      - 《JavaScript DOM编程艺术》
+      - 《JavaScript高级程序设计（第三版）》
+
+    - 入门视频：[慕课网JavaScript入门课程](http://www.imooc.com/view/36)
+    - 参考文档：[MDN JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
+
+## 任务3_5：文章分页效果
+
+- 完成时间：**一周（2016.09.26-2016.10.02）**
+- 任务内容
+ - 实现文章分页效果，模仿[百度贴吧分页效果]()右侧选项卡效果。
+ - 样例图片：![](img/task_3_5.png)
+- 基本要求：
+    - 功能1：每页的内容区域有6个帖子项，为首页按钮，尾页按钮，上一页按钮，下一页按钮，详细页按钮添加事件，点击不同类型按钮内容区切换至相应内容。
+    - 功能2：所有帖子项的数据（如点赞数，标题，内容简述，发帖人，发帖时间等等）全部封装在JSON对象里面。
+    - 功能3：以拼接字符串的方式展示数据。
+- 提升要求（不强制，按自身实际自行决定）：
+    - 兼容性：考虑原生JavaScript的兼容性问题。
+    - 组件化：考虑组件的可重用性问题，如：每页的帖子个数可根据需求动态添加。
+    - 代码规范：[JavaScript代码规范](https://github.com/ecomfe/spec/blob/master/javascript-style-guide.md)
+
+- 作业提交：分配导师后提交到相应导师处（分配导师前统一提交到邮箱945661494@qq.com）
 - 参考资料：
     - 入门书籍
       - 《JavaScript DOM编程艺术》

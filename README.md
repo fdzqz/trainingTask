@@ -35,9 +35,9 @@
  - 任务3：使用原生JavaScript写组件
     - 组件1：[表单验证](https://github.com/fdzqz/trainingTask/blob/master/fe_task/task_03.md)**(已布置)**
     - 组件2：[图片轮播](https://github.com/fdzqz/trainingTask/blob/master/fe_task/task_03.md)**(已布置)**
-    - 组件3：Tab选项卡
-    - 组件4：弹出框
-    - 组件5：分页效果
+    - 组件3：[Tab选项卡](https://github.com/fdzqz/trainingTask/blob/master/fe_task/task_03.md)**(已布置)**
+    - 组件4：[弹出框](https://github.com/fdzqz/trainingTask/blob/master/fe_task/task_03.md)**(已布置)**
+    - 组件5：[分页效果](https://github.com/fdzqz/trainingTask/blob/master/fe_task/task_03.md)**(已布置)**
  - 任务4：使用jQuery重构组件
  - 任务5：使用前端模板和用Ajax进行数据交互
     - handlebars
