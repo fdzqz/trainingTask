@@ -46,6 +46,7 @@
 - 后台任务
  - 任务一：前后端任务相同**（已布置）**
  - 任务二：[后台第二次任务](https://github.com/fdzqz/trainingTask/blob/master/rd_task/task_02.md)**(已布置)**
+ - 任务三：[后台第三次任务](https://github.com/fdzqz/trainingTask/blob/master/rd_task/task_03.md)**(已布置)**
 
 ## 培训
 - 前端培训
@@ -54,7 +55,7 @@
      - 切图工具：Photoshop CC
      - 编辑工具：Sublime Text3
      - 调试工具：谷歌开发者工具
- - 培训2：静态网页的基本编写要素**(8.1）**
+ - 培训2：静态网页的基本编写要素**(8.1，资料已给）**
      - 第一次任务讲解
      - 语义化标签
      - 常见HTML模块
